@@ -1,6 +1,9 @@
 
 ## Usage 
 
+* Clone the repository
+* Install dependencies
+
 ```
 cd math_for_ml/Linear_Regression
 python linear_regression.py
