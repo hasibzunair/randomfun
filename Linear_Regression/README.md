@@ -1,9 +1,14 @@
+## Intro 
+Implementation of linear regression using gradient descent as first order optimization strategy.
+
+
+## Dependencies 
+* numpy
 
 ## Usage 
 
 * Clone the repository
-* Install dependencies
-
+* Run following commands
 ```
 cd math_for_ml/Linear_Regression
 python linear_regression.py
