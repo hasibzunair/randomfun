@@ -15,6 +15,5 @@ python linear_regression.py
 ```
 
 ### Terminal session
- <p align="center">
-  <a href="#"><img src="https://github.com/hasibzunair/math-for-ml/blob/master/Linear_Regression/terminalsession.png" height=100/></a>
- </p>
+
+![alt-text-2](https://github.com/hasibzunair/math-for-ml/blob/master/Linear_Regression/terminalsession.png "title-2")
