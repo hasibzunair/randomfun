@@ -1,5 +1,5 @@
 ## Intro 
-Implementation of gradient descent to solve a linear regression problem as first order optimization strategy.
+Implementation of gradient descent to solve a linear regression problem of fitting line to a set of points as first order optimization strategy.
 
 
 ## Dependencies 
